@@ -1,0 +1,111 @@
+.e2_11 { 
+	overflow:hidden;
+}
+.e2_11 { 
+	background-color:rgba(239.0625, 179.296875, 179.296875, 1);
+	width:1920px;
+	height:1006px;
+}
+.e2_12 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e2_12 { 
+	width:512px;
+	height:512px;
+	position:absolute;
+	left:702px;
+	top:134px;
+	background-image:url(images/baroque1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e4_9 { 
+	width:397px;
+	height:104px;
+	position:absolute;
+	left:1036px;
+	top:854px;
+}
+.e4_10 { 
+	background-color:rgba(232.68750607967377, 194.2940166592598, 58.17186892032623, 1);
+	width:300px;
+	height:84px;
+	position:relative;
+	left: 800px;
+	top:-165px;
+	font-family:Ledger;
+	border-top-left-radius:52px;
+	border-top-right-radius:52px;
+	border-bottom-left-radius:52px;
+	border-bottom-right-radius:52px;
+	cursor: pointer;
+    font-size: 24px;
+}
+.e4_15 { 
+	width:397px;
+	height:104px;
+	position:absolute;
+	left:486px;
+	top:854px;
+}
+.e4_16 { 
+	background-color:rgba(232.68750607967377, 194.2940166592598, 58.17186892032623, 1);
+	width:300px;
+	height:84px;
+	position:relative;
+	left: 500px;
+	top:-155px;
+	font-family:Ledger;
+	border-top-left-radius:52px;
+	border-top-right-radius:52px;
+	border-bottom-left-radius:52px;
+	border-bottom-right-radius:52px;
+	cursor: pointer;
+    font-size: 24px;
+}
+.e4_25 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:524px;
+	height:95px;
+	position:absolute;
+	left:698px;
+	top:14px;
+}
+.e4_25 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e4_28 { 
+	color:rgba(0, 0, 0, 1);
+	width:468px;
+	height:72px;
+	position:absolute;
+	left:727px;
+	top:25px;
+	font-family:Playfair Display;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e4_26 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:947px;
+	height:169px;
+	position:absolute;
+	left:487px;
+	top:666px;
+}
+.e4_26 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e4_27 { 
+	color:rgba(0, 0, 0, 1);
+	width:1017px;
+	height:152px;
+	position:absolute;
+	left:453px;
+	top:683px;
+	font-family:Ledger;
+	text-align:center;
+	font-size:44px;
+	letter-spacing:0;
+}

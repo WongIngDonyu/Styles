@@ -1,0 +1,176 @@
+.e1_2 { 
+	overflow:hidden;
+}
+.e1_2 { 
+	background-color:rgba(239.0625, 179.296875, 179.296875, 1);
+	width:1920px;
+	height:1006px;
+	position:absolute;
+}
+.e2_4 { 
+	color:rgba(0, 0, 0, 1);
+	width:466px;
+	height:94px;
+	position:absolute;
+	left:727px;
+	top:270px;
+	font-family:Playfair Display;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e2_5 { 
+	color:rgba(0, 0, 0, 1);
+	width:1208px;
+	height:65px;
+	position:absolute;
+	left:356px;
+	top:364px;
+	font-family:Ledger;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e4_12 { 
+	width:397px;
+	height:104px;
+	position:absolute;
+	left:761px;
+	top:675px;
+}
+.e4_13 { 
+	background-color:rgba(232.68750607967377, 194.2940166592598, 58.17186892032623, 1);
+	width:397px;
+	height:104px;
+	position:relative;
+	left:760px;
+	top:590px;
+	font-family:Ledger;
+	border-top-left-radius:52px;
+	border-top-right-radius:52px;
+	border-bottom-left-radius:52px;
+	border-bottom-right-radius:52px;
+	cursor: pointer;
+    font-size: 24px;
+	border:2px solid rgba(0, 0, 0, 1);
+}
+.e4_15 { 
+	display: block;
+	background-color:rgba(232.68750607967377, 194.2940166592598, 58.17186892032623, 1);
+	width:397px;
+	height:104px;
+	position:relative;
+	left:760px;
+	top:620px;
+	font-family:Ledger;
+	border-top-left-radius:52px;
+	border-top-right-radius:52px;
+	border-bottom-left-radius:52px;
+	border-bottom-right-radius:52px;
+	cursor: pointer;
+    font-size: 24px;
+	border:2px solid rgba(0, 0, 0, 1);
+}
+.e4_14 { 
+	color:rgba(0, 0, 0, 1);
+	width:284px;
+	height:50px;
+	position:absolute;
+	left:56px;
+	top:27px;
+	font-family:Ledger;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e4_18 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e4_18 { 
+	width:366px;
+	height:964px;
+	position:absolute;
+	left:1536px;
+	top:21px;
+	background-image:url(images/postmodern1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e4_19 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e4_19 { 
+	width:360px;
+	height:424px;
+	position:absolute;
+	left:23px;
+	top:68px;
+	background-image:url(images/edwardian1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e4_21 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e4_21 { 
+	width:319px;
+	height:400px;
+	position:absolute;
+	left:82px;
+	top:579px;
+	background-image:url(images/image_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e4_22 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1079px;
+	height:321px;
+	position:absolute;
+	left:420px;
+	top:204px;
+}
+.e4_22 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e4_23 { 
+	color:rgba(0, 0, 0, 1);
+	width:557px;
+	height:94px;
+	position:absolute;
+	left:726px;
+	top:251px;
+	font-family:Playfair Display;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e4_24 { 
+	color:rgba(0, 0, 0, 1);
+	width:1040px;
+	height:84px;
+	position:absolute;
+	left:439px;
+	top:345px;
+	font-family:Ledger;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.input__file {
+	opacity: 0;
+	visibility: hidden;
+	position: absolute;
+}
+.input__file-button-text {
+	line-height: 1;
+}
+
+.e4_13 input{
+	display: none;
+}
+.e4_13{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
